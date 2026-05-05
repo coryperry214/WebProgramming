@@ -1,0 +1,52 @@
+html, body {
+margin: 0; /* Remove default margins */
+padding: 0; /* Remove default padding */
+height: 100%; /* Ensure both elements cover the full height of the viewport */
+background-color: lightblue; /* Set your desired background color */
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 { 
+    color: #00f
+}
+
+h1 {
+            text-align: center;
+        }
+
+p {
+    color:#00f
+}
+p {
+  padding: 10px;
+}
+
+li::marker {
+  color: #ff6b6b;
+}
+
+li{
+    color:#00f
+}
+a {
+color: blue;
+}
+a:hover {
+    text-decoration: none; 
+}
+.styled-box {
+    border: 2px solid black;
+}
+.styled-box {
+  background-color: lightgray;
+}
+.styled-box {
+  padding: 15px;
+}
+.styled-box {
+text-align: center;
+
+}
